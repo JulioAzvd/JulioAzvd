@@ -29,10 +29,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0dc55?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-377cc8?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 
-<div algin="center">
-  <br><p align="center"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JulioAzvd}/count.svg" /></p>
-  <br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c4d4f&height=120&section=footer"/>
